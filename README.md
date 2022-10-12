@@ -6,6 +6,7 @@ Here on the public build you can find approved plug-in and helpfull things for a
 # Links
 Discord: https://discord.gg/yHH2cynGzD
 
+# Huxley Chassis Developers
 @author: NoobLad2021 
 @coauthor: Jake_7977 
 Last Updated: 10/11/22 
