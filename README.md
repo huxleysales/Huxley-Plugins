@@ -3,6 +3,9 @@ Huxley Chassis Public build.
 
 Here on the public build you can find approved plug-in and helpfull things for any huxley bus v4.0<
 
+# Links
+Discord: https://discord.gg/yHH2cynGzD
+
 @author: NoobLad2021 
 @coauthor: Jake_7977 
 Last Updated: 10/11/22 
