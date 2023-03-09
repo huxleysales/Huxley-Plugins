@@ -11,7 +11,8 @@ Discord: https://discord.gg/yHH2cynGzD
 
 | Version | Supported          | Some may not work |
 | ------- | ------------------ |-------------------|
-| 5.0.x   | ✅                 | All will work     |
+| 5.2.X   | ✅                 | All will work     |
+| 5.1.x   | ✅                 | All will work     |
 | 4.0.x   | ✅                 | All will work     |
 | 3.0.x   |                   | Limited Support |
 | 2.0.x   | ❌                 | No longer Supported |
